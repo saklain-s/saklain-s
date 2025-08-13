@@ -44,7 +44,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 ### Top Repositories
 
 [![saklain-s/Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=saklain-s&repo=Ecommerce&theme=react)](https://github.com/saklain-s/Ecommerce)
-[![saklain-s/Machine_Learning](https://github-readme-stats.vercel.app/api/pin/?username=saklain-s&repo=Machine_Learning&theme=react)](https://github.com/saklain-s/Machine_Learning)
+[![saklain-s/Machine_Learning](https://github-readme-stats.vercel.app/api/pin/?username=saklain-s&repo=Machine_Learning&theme=react)](https://github.com/saklain-s/SpringFoundationalProjects)
 
 ---
 
