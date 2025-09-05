@@ -1,0 +1,38 @@
+Vempalli Shaik Saklain
+Anantapur, shaiksaklain04@gmail.com, +91-8341391869, vempalli-shaik-saklain-030031254
+
+Professional Summary
+Software Engineer proficient in creating robust backend systems using Java, Spring Boot, and microservices architectures. Experienced in building and deploying scalable RESTful APIs for high-performance applications. Skilled in Python for implementing foundational machine learning solutions to enhance software intelligence. Passionate about leveraging advanced Java concurrency, cloud technologies (AWS, Docker, Kubernetes), and CI/CD pipelines to deliver production-grade solutions, with a strong commitment to continuous skill growth in modern software engineering.
+
+Education
+Raghu Engineering College
+2022 – Expected 2026
+Bachelor of Technology in Computer Science and Engineering
+◦CGPA: 8.03/10.0
+Sri Chaitanya Junior College
+2022
+Intermediate (XII)
+Sri Chaitanya Techno School
+2020
+10th Grade
+
+Skills
+Languages & Frameworks: Java, Spring Boot, Spring Security, Spring Cloud, JPA, Hibernate, SQL, PostgreSQL, Python
+Cloud & DevOps: AWS (EC2, RDS, S3, SQS, CloudWatch, Elastic Beanstalk), Docker, Kubernetes (basics), CI/CD (GitHub Actions)
+Developer Tools: Git, GitHub, Maven, Postman, IntelliJ IDEA, JUnit 5, Redis, MySQL
+Computer Science Fundamentals: Operating Systems (Processes, Threads, Deadlock), Networking (TCP/IP, HTTP/2), Database Theory (ACID, Indexing, NoSQL)
+Soft Skills: Problem Solving, Critical Thinking, Continuous Learning, Effective Teamwork and Collaboration
+
+Technical Highlights
+◦Developed, tested and deployed multiple production-grade full-stack applications using industry best practices.
+◦Solved numerous Data Structures & Algorithms problems on LeetCode, GeeksforGeeks, and HackerRank, and designed architectures for 10+ distributed systems in academic and personal projects.
+
+Projects
+SHOPAURA
+github.com/saklain-s/Ecommerce
+◦Engineered a full-stack e-commerce platform (Spring Boot, React) with 15+ REST APIs, featuring a robust security model with JWT and Role-Based Access Control (RBAC).
+◦Integrated Redis for high-performance caching, AWS SQS for asynchronous order processing, and deployed the containerized application to AWS Elastic Beanstalk.
+BLOGNEST
+github.com/saklain-s/blognest
+◦Designed a scalable blog API using a Spring Boot microservices architecture, featuring JWT authentication and a complete CI/CD pipeline using GitHub Actions.
+◦Authored a comprehensive test suite with JUnit, achieving 90 percent code coverage to ensure API reliability and maintainability.
