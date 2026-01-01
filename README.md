@@ -10,34 +10,34 @@
 
 
 
+
+
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" style="margin-right:10px;" />
 </p>
 
 
 
 <p align="center" style="margin-top:12px;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" style="margin-right:10px;" />
 </p>
 
 
 
 - 🔭 I’m currently open to a new Job
-- 📄 Know about my experiences: [![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobe&style=flat-square)](./VempalliShaikSaklain.pdf)
+
 - 📫 Reach me at: shaiksaklain04@gmail.com
-
-
-
 - 🚀 Currently building REST APIs
 - 🧑‍💻 Exploring new technologies and frameworks
 - 💡 I love solving real-world problems with code
+- 📄 View My Resume ->: [![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobe&style=flat-square)](./VempalliShaikSaklain.pdf)
 
 
 
@@ -47,7 +47,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vempalli-shaik-saklain-030031254/" target="blank" style="margin-right:12px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Saklain_4/" target="blank" style="margin-right:12px;"><span style="background:#f3f4f6; padding:5px; border-radius:6px; display:inline-block;"><img align="center" src="https://cdn.simpleicons.org/leetcode/000000" alt="leetcode" height="20" width="20" /></span></a>
+  <a href="https://leetcode.com/u/Saklain_4/" target="blank" style="margin-right:12px; display:inline-flex; align-items:center; height:30px;"><span style="background:#f3f4f6; padding:5px; border-radius:6px; display:inline-flex; align-items:center; height:30px;"><img align="center" src="https://cdn.simpleicons.org/leetcode/ffa116" alt="leetcode" height="18" width="18" style="display:block;" /></span></a>
   <a href="https://www.instagram.com/_.saklain/" target="blank" style="margin-right:12px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
@@ -55,25 +55,35 @@
 
 <p style="font-size:20px; font-weight:700; margin:0;">Languages and Tools</p>
 
+
+
 <ul>
   <li><strong>Backend</strong>
     <div style="margin:6px 0 12px;">
-      <img src="https://skillicons.dev/icons?i=java,spring,python" alt="backend icons" />
+      <img src="https://skillicons.dev/icons?i=java" alt="java" style="margin-right:12px; vertical-align:middle;" height="40" />
+      <img src="https://skillicons.dev/icons?i=spring" alt="spring" style="margin-right:12px; vertical-align:middle;" height="40" />
+      <img src="https://skillicons.dev/icons?i=python" alt="python" style="margin-right:12px; vertical-align:middle;" height="40" />
     </div>
   </li>
   <li><strong>Database</strong>
     <div style="margin:6px 0 12px;">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="database icons" />
+      <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" style="margin-right:12px; vertical-align:middle;" height="40" />
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" style="margin-right:12px; vertical-align:middle;" height="40" />
     </div>
   </li>
   <li><strong>Cloud</strong>
     <div style="margin:6px 0 12px;">
-      <img src="https://skillicons.dev/icons?i=aws" alt="cloud icons" />
+      <img src="https://skillicons.dev/icons?i=aws" alt="aws" style="margin-right:12px; vertical-align:middle;" height="40" />
     </div>
   </li>
   <li><strong>Tools</strong>
     <div style="margin:6px 0 12px;">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" alt="tools icons" />
+      <img src="https://skillicons.dev/icons?i=git" alt="git" style="margin-right:12px; vertical-align:middle;" height="40" />
+      <img src="https://skillicons.dev/icons?i=github" alt="github" style="margin-right:12px; vertical-align:middle;" height="40" />
+      <img src="https://skillicons.dev/icons?i=docker" alt="docker" style="margin-right:12px; vertical-align:middle;" height="40" />
+      <img src="https://skillicons.dev/icons?i=postman" alt="postman" style="margin-right:12px; vertical-align:middle;" height="40" />
+      <img src="https://skillicons.dev/icons?i=idea" alt="intellij" style="margin-right:12px; vertical-align:middle;" height="40" />
+      <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" style="margin-right:12px; vertical-align:middle;" height="40" />
     </div>
   </li>
 </ul>
